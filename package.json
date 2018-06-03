@@ -1,0 +1,27 @@
+{
+  "name": "@12-707/demo",
+  "version": "1.0.0",
+  "description": "A sample for web page",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12707/demo.git"
+  },
+  "keywords": [
+    "demo",
+    "home",
+    "wx"
+  ],
+  "author": "Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12707/demo/issues"
+  },
+  "homepage": "https://github.com/12707/demo#readme"
+}
